@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2lFHpSYQqkk05g3ApHms" name="绑定与激活流程图">
-    <mxGraphModel dx="1734" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2515" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -498,7 +498,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="绑定与激活" vertex="1">
-          <mxGeometry height="60" width="120" x="1150" y="47.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="1150" y="78.75" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-12" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-10">
           <mxGeometry relative="1" as="geometry" />
@@ -509,7 +509,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="业务入口" vertex="1">
-          <mxGeometry height="50" width="110" x="1155" y="150" as="geometry" />
+          <mxGeometry height="50" width="110" x="1155" y="181.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-26" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-15">
           <mxGeometry relative="1" as="geometry" />
@@ -529,7 +529,7 @@
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-41" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7m5YSCAU0Z3bHuqT-Pcr-44">
           <mxGeometry relative="1" x="0.7834" as="geometry">
-            <mxPoint x="1300" y="587.5" as="targetPoint" />
+            <mxPoint x="1300" y="618.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-42" connectable="0" parent="7m5YSCAU0Z3bHuqT-Pcr-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="当前会员已有待激活卡" vertex="1">
@@ -538,29 +538,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="绑定方式？" vertex="1">
-          <mxGeometry height="50" width="110" x="1155" y="223" as="geometry" />
+          <mxGeometry height="50" width="110" x="1155" y="254.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-21" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-20">
           <mxGeometry relative="1" x="-0.1904" as="geometry">
             <Array as="points">
-              <mxPoint x="1095" y="390" />
-              <mxPoint x="1215" y="390" />
+              <mxPoint x="1095" y="421.25" />
+              <mxPoint x="1215" y="421.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="用户输入兑换码并提交&lt;div&gt;校验有效性，使用情况&lt;/div&gt;&lt;div&gt;和适用期限&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="150" x="1020" y="320" as="geometry" />
+          <mxGeometry height="45" width="150" x="1020" y="351.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-22" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-20">
           <mxGeometry relative="1" x="-0.2021" as="geometry">
             <Array as="points">
-              <mxPoint x="1325" y="390" />
-              <mxPoint x="1215" y="390" />
+              <mxPoint x="1325" y="421.25" />
+              <mxPoint x="1215" y="421.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="运营人员导入excel表格&lt;div&gt;校验表格数据，有效性等&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="150" x="1250" y="320" as="geometry" />
+          <mxGeometry height="45" width="150" x="1250" y="351.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-24" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-23">
           <mxGeometry relative="1" as="geometry" />
@@ -579,12 +579,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="绑定&lt;span style=&quot;text-decoration: inherit;&quot;&gt;通过？&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="1160" y="410" as="geometry" />
+          <mxGeometry height="50" width="110" x="1160" y="441.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-28" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="248" />
+              <mxPoint x="995" y="279.25" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -594,28 +594,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="提示具体原因，本条不绑定&lt;div&gt;可返回原入口修改提交&lt;/div&gt;&lt;div&gt;超期，不可用结束本次办理&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="150" x="920" y="412" as="geometry" />
+          <mxGeometry height="45" width="150" x="920" y="443.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-37" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-33" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="执行绑定&lt;div&gt;套餐卡与会员关联&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="150" x="1140" y="490" as="geometry" />
+          <mxGeometry height="45" width="150" x="1140" y="521.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-40" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-36" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="绑定成功，状态为未激活" vertex="1">
-          <mxGeometry height="45" width="150" x="1140" y="565" as="geometry" />
+          <mxGeometry height="45" width="150" x="1140" y="596.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-39" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="套餐生效方式" vertex="1">
-          <mxGeometry height="50" width="110" x="1160" y="640" as="geometry" />
+          <mxGeometry height="50" width="110" x="1160" y="671.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-45" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-44" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="选择当前会员已有激活卡&lt;div&gt;无需再次兑换或绑定&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="150" x="1370" y="448" as="geometry" />
+          <mxGeometry height="45" width="150" x="1370" y="479.25" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-46" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="绑定成功，状态为未激活" vertex="1">
           <mxGeometry height="45" width="150" x="1980" y="70" as="geometry" />
@@ -716,11 +716,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-79" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-77">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2180" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-81" connectable="0" parent="7m5YSCAU0Z3bHuqT-Pcr-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="后台激活" vertex="1">
           <mxGeometry relative="1" x="0.5362" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-74" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="由谁发起？" vertex="1">
@@ -736,7 +740,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-77" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="管家填写会员姓名，身份证号，校验后提交" vertex="1">
-          <mxGeometry height="45" width="150" x="2130" y="560" as="geometry" />
+          <mxGeometry height="45" width="150" x="2105" y="560" as="geometry" />
         </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-86" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-85">
           <mxGeometry relative="1" as="geometry" />
@@ -809,8 +813,14 @@
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-103" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="状态为已激活" vertex="1">
           <mxGeometry height="45" width="150" x="1990" y="900" as="geometry" />
         </mxCell>
+        <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-108" edge="1" parent="1" source="7m5YSCAU0Z3bHuqT-Pcr-105" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="7m5YSCAU0Z3bHuqT-Pcr-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-105" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="写入激活时间，状态变更记录或操作记录&lt;div&gt;后台显示成功并刷新，后台状态更新&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="270" x="1930" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="7m5YSCAU0Z3bHuqT-Pcr-107" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="绑定激活完成" vertex="1">
+          <mxGeometry height="35" width="130" x="2000" y="1070" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
